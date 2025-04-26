@@ -1136,7 +1136,7 @@ public class ServerListScreen : mScreen, IActionListener
 
 	public static void SetIpSelect(int index, bool issave)
 	{
-		Debug.LogError(">>>>SetIpSelect: " + index + "  save:" + issave);
+		//Debug.LogError(">>>>SetIpSelect: " + index + "  save:" + issave);
 		ipSelect = index;
 		if (issave)
 		{

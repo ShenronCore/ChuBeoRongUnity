@@ -510,7 +510,7 @@ public class Session_ME : ISession
 		key = null;
 		curR = 0;
 		curW = 0;
-		Debug.LogError(">>>cleanNetwork ...!");
+		//Debug.LogError(">>>cleanNetwork ...!");
 		try
 		{
 			connected = false;

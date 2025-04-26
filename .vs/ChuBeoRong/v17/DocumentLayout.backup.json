@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Win Val\\Desktop\\ProjectClient\\ChuBeoRong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F848DAB-9C11-B8F8-1D6C-CDB04DBE822D}|Assembly-CSharp.csproj|c:\\users\\win val\\desktop\\projectclient\\chubeorong\\assets\\scripts\\assembly-csharp\\mfont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F848DAB-9C11-B8F8-1D6C-CDB04DBE822D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\mfont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F848DAB-9C11-B8F8-1D6C-CDB04DBE822D}|Assembly-CSharp.csproj|C:\\Users\\Win Val\\Desktop\\ProjectClient\\ChuBeoRong\\assets\\scripts\\assembly-csharp\\mgraphics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F848DAB-9C11-B8F8-1D6C-CDB04DBE822D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\mgraphics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F848DAB-9C11-B8F8-1D6C-CDB04DBE822D}|Assembly-CSharp.csproj|C:\\Users\\Win Val\\Desktop\\ProjectClient\\ChuBeoRong\\assets\\scripts\\assembly-csharp\\bgitemmn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F848DAB-9C11-B8F8-1D6C-CDB04DBE822D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assembly-csharp\\bgitemmn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mGraphics.cs",
+              "DocumentMoniker": "C:\\Users\\Win Val\\Desktop\\ProjectClient\\ChuBeoRong\\Assets\\Scripts\\Assembly-CSharp\\mGraphics.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\mGraphics.cs",
+              "ToolTip": "C:\\Users\\Win Val\\Desktop\\ProjectClient\\ChuBeoRong\\Assets\\Scripts\\Assembly-CSharp\\mGraphics.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\mGraphics.cs",
+              "ViewState": "AgIAAKEEAAAAAAAAAAAgwLEEAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:49:59.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mFont.cs",
+              "DocumentMoniker": "C:\\Users\\Win Val\\Desktop\\ProjectClient\\ChuBeoRong\\Assets\\Scripts\\Assembly-CSharp\\mFont.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\mFont.cs",
+              "ToolTip": "C:\\Users\\Win Val\\Desktop\\ProjectClient\\ChuBeoRong\\Assets\\Scripts\\Assembly-CSharp\\mFont.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\mFont.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAIAwwOAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:36:19.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BgItemMn.cs",
+              "DocumentMoniker": "C:\\Users\\Win Val\\Desktop\\ProjectClient\\ChuBeoRong\\Assets\\Scripts\\Assembly-CSharp\\BgItemMn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assembly-CSharp\\BgItemMn.cs",
+              "ToolTip": "C:\\Users\\Win Val\\Desktop\\ProjectClient\\ChuBeoRong\\Assets\\Scripts\\Assembly-CSharp\\BgItemMn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assembly-CSharp\\BgItemMn.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAgwHwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:34:34.344Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

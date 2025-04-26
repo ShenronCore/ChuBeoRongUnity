@@ -1191,16 +1191,23 @@ public class mGraphics
 		fillRect(i * zoomLevel, j * zoomLevel, k * zoomLevel, l * zoomLevel);
 	}
 
-	public void CreateLineMaterial()
-	{
-		if (!lineMaterial)
-		{
-			lineMaterial = new Material("Shader \"Lines/Colored Blended\" {SubShader { Pass {  Blend SrcAlpha OneMinusSrcAlpha  ZWrite Off Cull Off Fog { Mode Off }  BindChannels { Bind \"vertex\", vertex Bind \"color\", color }} } }");
-			lineMaterial.hideFlags = HideFlags.HideAndDontSave;
-			lineMaterial.shader.hideFlags = HideFlags.HideAndDontSave;
-		}
-	}
-
+    public void CreateLineMaterial()
+    {
+        if (!lineMaterial)
+        {
+            Shader shader = Shader.Find("Hidden/Internal-Colored");
+            if (shader == null)
+            {
+                Debug.LogError("Shader not found: Hidden/Internal-Colored");
+                return;
+            }
+            lineMaterial = new Material(shader)
+            {
+                hideFlags = HideFlags.HideAndDontSave
+            };
+        }
+    }
+ 
 	public void drawlineGL(MyVector totalLine)
 	{
 		lineMaterial.SetPass(0);
